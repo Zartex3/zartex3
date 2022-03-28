@@ -1,7 +1,7 @@
-<h1 align="center">Hi Im Zartex3</h1>
-<h3 align="center">A Dumbass Learning HTML5 And Javascript</h3>
+<h1 align="center">Kiubo</h1>
+<h3 align="center">Un mongolo haciendo cosas en la interweb</h3>
 
-<h3 align="center">I Normally Make Logos And That Stuff</h3>
+<h3 align="center">Normalmente duermo y hueveo</h3>
 
 - 💎Crystal Team Leader
 - 🤠LNC Member
